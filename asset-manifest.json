@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AI-VoiceControll-NewsApp/static/css/main.63f73e6c.chunk.css",
+    "main.js": "/AI-VoiceControll-NewsApp/static/js/main.531faad7.chunk.js",
+    "main.js.map": "/AI-VoiceControll-NewsApp/static/js/main.531faad7.chunk.js.map",
+    "runtime-main.js": "/AI-VoiceControll-NewsApp/static/js/runtime-main.59a0479f.js",
+    "runtime-main.js.map": "/AI-VoiceControll-NewsApp/static/js/runtime-main.59a0479f.js.map",
+    "static/js/2.1bfcf88b.chunk.js": "/AI-VoiceControll-NewsApp/static/js/2.1bfcf88b.chunk.js",
+    "static/js/2.1bfcf88b.chunk.js.map": "/AI-VoiceControll-NewsApp/static/js/2.1bfcf88b.chunk.js.map",
+    "index.html": "/AI-VoiceControll-NewsApp/index.html",
+    "precache-manifest.4bab8b656ab1532cca87a7536034ede2.js": "/AI-VoiceControll-NewsApp/precache-manifest.4bab8b656ab1532cca87a7536034ede2.js",
+    "service-worker.js": "/AI-VoiceControll-NewsApp/service-worker.js",
+    "static/css/main.63f73e6c.chunk.css.map": "/AI-VoiceControll-NewsApp/static/css/main.63f73e6c.chunk.css.map",
+    "static/js/2.1bfcf88b.chunk.js.LICENSE.txt": "/AI-VoiceControll-NewsApp/static/js/2.1bfcf88b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59a0479f.js",
+    "static/js/2.1bfcf88b.chunk.js",
+    "static/css/main.63f73e6c.chunk.css",
+    "static/js/main.531faad7.chunk.js"
+  ]
+}
